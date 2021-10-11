@@ -17,7 +17,7 @@ Berikut struktur folder dalam website ini:
 ┣ 📂auth
 ┃ ┣ 📂daftar
 ┃ ┃ ┗ 📜index.php
-┃ ┗ 📂daftar
+┃ ┗ 📂login
 ┃   ┗ 📜index.php
 ┣ 📂css
 ┃ ┗ 📜style.css
