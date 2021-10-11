@@ -26,7 +26,7 @@ Berikut struktur folder dalam website ini:
 ┣ 📂home
 ┃ ┣ 📜index.php
 ┃ ┗ 📜logout.php
-┣ 📂home
+┣ 📂img
 ┃ ┣ 📜logo.png
 ┃ ┗ 📜hero-1.png
 ┣ 📂profil
